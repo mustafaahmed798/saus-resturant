@@ -1,0 +1,60 @@
+header {
+  background: url("./../../img/head.jpg") center no-repeat fixed;
+  background-size: cover;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  overflow: hidden;
+  text-align: left;
+  padding: 25px;
+  margin-top: auto;
+}
+header .container{
+    margin: 50px 0px;
+}
+header h2 {
+  color: #c42f2f;
+  font-size: 55px;
+  line-height: 60px;
+  font-family: 'Tajawal', sans-serif;
+  font-weight: bold;
+  width: 80%;
+  margin-top: 10px;
+}
+header p{
+    color: #333;
+    margin: 15px 0px;
+    font-size: 20px;
+    font-family: 'Tajawal', sans-serif;
+}
+
+
+header button {
+    width: 150px;
+    height: 50px;
+    font-size: 18px;
+    margin: 20px 10px 20px 0px;
+    background-color: #c42f2f;
+    border: 2px solid #c42f2f;
+    border-radius: 5px;
+    box-sizing: border-box;
+    color: #fff !important;
+    font-family: 'Tajawal', sans-serif;
+    font-weight: bold;
+}
+header button:hover {
+    transition: 0.2s ease-in-out;
+}
+header button:last-of-type{
+    background-color: #fff;
+    color: black !important;
+}
+
+header button:last-of-type:hover{
+    background-color: #c42f2f;
+    color: #fff !important;
+}
+header button:first-of-type:hover{
+    background-color: #fff;
+    color: #c42f2f !important;
+}

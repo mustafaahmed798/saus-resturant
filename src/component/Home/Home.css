@@ -1,0 +1,218 @@
+.num {
+  width: 100%;
+  height: auto;
+  background-color: #c42f2f;
+  padding: 15px;
+  text-align: center;
+  overflow: hidden;
+  color: #fff;
+  font-family: "Tajawal", sans-serif;
+}
+.num .row {
+  margin: 10px 0px;
+}
+.num h2 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 35px;
+}
+.num h6 {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+/* pride side */
+.pride,
+.make {
+  width: 100%;
+  height: auto;
+  background-color: transparent;
+  padding: 25px 0px;
+  overflow: hidden;
+  margin-top: 50px;
+  font-family: "Tajawal", sans-serif;
+}
+.pride img,
+.make img {
+  max-width: 100%;
+  border-radius: 10px;
+  scroll-behavior: smooth;
+  background: fixed;
+}
+
+.pride h2,
+.make h2 {
+  color: #c42f2f;
+  font-size: 40px;
+  line-height: 50px;
+  font-family: "Tajawal", sans-serif;
+  font-weight: bold;
+  width: 80%;
+  margin-top: 10px;
+}
+.pride p,
+.make p .stomach p,
+.explore p {
+  color: #333;
+  margin: 15px 0px;
+  width: 80%;
+  font-size: 18px;
+  font-family: "Tajawal", sans-serif;
+}
+
+.pride button,
+.make button,
+.explore button {
+  width: 150px;
+  height: 50px;
+  font-size: 18px;
+  border: 2px solid #c42f2f;
+  background-color: #c42f2f;
+  font-family: "Tajawal", sans-serif;
+  box-sizing: border-box;
+  color: #fff !important;
+  margin: 20px 10px 20px 0px;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.pride button:hover,
+.make button:hover,
+.explore button:hover {
+  background-color: transparent;
+  color: #c42f2f !important;
+  transition: 0.2s ease-in-out;
+}
+
+.make ul li {
+  list-style-type: square;
+  font-family: "Tajawal", sans-serif;
+}
+.make ul {
+  padding: 0px;
+}
+
+/* Stomach*/
+.stomach {
+  width: 100%;
+  background: url("../../img/back.jpg") center no-repeat fixed;
+  background-size: cover;
+  height: auto;
+  margin: 20px 0px;
+  padding: 30px 0px;
+  text-align: center;
+}
+.stomach .row {
+  margin: 50px 0px;
+}
+
+.stomach h2,
+.explore h2 {
+  text-align: center;
+  color: #c42f2f;
+  font-size: 45px;
+  line-height: 40px;
+  font-family: "Tajawal", sans-serif;
+  font-weight: bold;
+  margin: 15px 0px;
+}
+.stomach a {
+  font-weight: bold;
+  color: #1a1c27;
+  font-family: "Tajawal", sans-serif;
+  align-self: center;
+  text-decoration: none;
+}
+.stomach a:hover {
+  color: #c42f2f;
+}
+.explore {
+  width: 100%;
+  height: auto;
+  margin: 20px 0px;
+  padding: 30px 0px;
+  text-align: center;
+}
+.explore p {
+  width: 100%;
+}
+.explore img {
+  max-width: 100%;
+  border-radius: 10px;
+  margin: 15px 0px;
+}
+.explore .box {
+  width: 100%;
+  max-width: 100%;
+  padding: 5px;
+  height: auto;
+  overflow: hidden;
+  box-sizing: border-box;
+  border-bottom: 1px solid #444;
+}
+.explore h5 {
+  color: #c42f2f;
+  font-family: "Tajawal", sans-serif;
+  font-size: 23px;
+  margin: 10px 0px;
+  text-align: left;
+  font-weight: bold;
+}
+
+.explore span {
+  display: block;
+  font-size: 16px;
+  font-family: "Tajawal", sans-serif;
+  color: #333;
+  margin: 10px 0px;
+  text-align: left;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.slider {
+  background-color: #c42f2f;
+  border: 1px solid #c42f2f;
+  text-align: center;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin: 20px 0px;
+}
+.slider h2 {
+  text-align: center;
+  color: #fff;
+  font-size: 45px;
+  line-height: 40px;
+  font-family: "Tajawal", sans-serif;
+  font-weight: bold;
+  margin: 20px 0px;
+}
+.slider img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-bottom: 200px;
+  margin-top: 15px;
+}
+.slide {
+  margin: 50px;
+  height: auto;
+  background-color: #fff;
+  border-radius: 15px;
+  touch-action: pan-y;
+  
+}
+.slide span{
+    color: #c42f2f;
+    font-size: 23px;
+  font-family: "Tajawal", sans-serif;
+  font-weight: bold;
+  margin: 15px 0px;
+  text-align: center;
+}
+.slide p{
+    color:black;
+    margin: 15px 0px;
+  font-size: 20px;
+  font-family: "Tajawal", sans-serif;
+    
+}
