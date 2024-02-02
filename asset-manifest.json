@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/saus-resturant/static/css/main.e82a38d6.css",
+    "main.js": "/saus-resturant/static/js/main.d6c4ee72.js",
+    "static/media/head.jpg": "/saus-resturant/static/media/head.e49ecb90503425d0a934.jpg",
+    "static/media/2.png": "/saus-resturant/static/media/2.b810024430d376b6bd6d.png",
+    "static/media/1.png": "/saus-resturant/static/media/1.91adf8dc0779a423e014.png",
+    "static/media/03.jpg": "/saus-resturant/static/media/03.0df4d0d0dda2d436bffc.jpg",
+    "static/media/back.jpg": "/saus-resturant/static/media/back.942788bd66094499a239.jpg",
+    "static/media/n1.jpg": "/saus-resturant/static/media/n1.960ff282036e3c4e63eb.jpg",
+    "static/media/logo.png": "/saus-resturant/static/media/logo.eed3969ae06af928236d.png",
+    "static/media/n2.jpg": "/saus-resturant/static/media/n2.f6e01ff2a6ae714f244b.jpg",
+    "static/media/01.jpg": "/saus-resturant/static/media/01.1defe43a880022701c8d.jpg",
+    "static/media/02.jpg": "/saus-resturant/static/media/02.a567a9db1482b99c0fab.jpg",
+    "index.html": "/saus-resturant/index.html",
+    "main.e82a38d6.css.map": "/saus-resturant/static/css/main.e82a38d6.css.map",
+    "main.d6c4ee72.js.map": "/saus-resturant/static/js/main.d6c4ee72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e82a38d6.css",
+    "static/js/main.d6c4ee72.js"
+  ]
+}
